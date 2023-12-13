@@ -22,18 +22,18 @@ START_IMG = [
 HEY_IMG = "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg"
 
 ALIVE_ANIMATION = [
-    "https://telegra.ph//file/f9e2b9cdd9324fc39970a.mp4",
-    "https://telegra.ph//file/8d4d7d06efebe2f8becd0.mp4",
-    "https://telegra.ph//file/c4c2759c5fc04cefd207a.mp4",
-    "https://telegra.ph//file/b1fa6609b1c4807255927.mp4",
-    "https://telegra.ph//file/f3c7147da6511fbe27c25.mp4",
-    "https://telegra.ph//file/39071b73c02e3ff5945ca.mp4",
-    "https://telegra.ph//file/8d4d7d06efebe2f8becd0.mp4",
-    "https://telegra.ph//file/6efdd8e28756bc2f6e53e.mp4",
+    "https://telegra.ph/file/d6d491f619444366e7419.mp4",
+    "https://telegra.ph/file/67eb0b6773445973e7c69.mp4",
+    "https://telegra.ph/file/aa272deb353555998da0f.mp4",
+    "https://telegra.ph/file/aa272deb353555998da0f.mp4",
+    "https://telegra.ph/file/aa272deb353555998da0f.mp4",
+    "https://telegra.ph/file/aa272deb353555998da0f.mp4",
+    "https://telegra.ph/file/aa272deb353555998da0f.mp4",
+    "https://telegra.ph/file/aa272deb353555998da0f.mp4",
 ]
 
 BAN_GIFS = [
-    "https://telegra.ph//file/85ac1ab12c833afa1a5dd.mp4",
+    "https://telegra.ph//file/6babc6b826cf65f31a548.mp4",
 ]
 
 
